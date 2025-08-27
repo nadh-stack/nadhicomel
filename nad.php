@@ -9,3 +9,4 @@ echo "PHP Version: " . phpversion() . "<br>";
 // Test date function
 echo "Current Date & Time: " . date("Y-m-d H:i:s");
 ?>
+<html>hello</html>
